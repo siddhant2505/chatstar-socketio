@@ -2,8 +2,11 @@
 
 # dependencies
 /node_modules
+/chatstar-app
 /.pnp
+
 .pnp.js
+
 
 # testing
 /coverage
